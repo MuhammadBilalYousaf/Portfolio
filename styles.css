@@ -1,24 +1,25 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins:400,700,900');
 
-*{
-    margin: 0;
-    box-sizing: border-box;
-    overflow: hidden;
+* {
+  margin: 0;
+  box-sizing: border-box;
+  overflow: hidden;
 }
 
-.navbar{
+.navbar {
     display: flex;
     justify-content: space-between;
     width: 375px;
     height: 48px;
 }
 
-.icon{
+.icon {
     position: absolute;
     right: 20px;
     margin-top: 17px;
 }
-.logo{
+
+.logo {
     width: 100px;
     height: 40px;
     margin-top: 4px;
@@ -26,7 +27,8 @@
     left: 12px;
     padding: 10px 12px 10px 10px;
 }
-.logo h2{
+
+.logo h2 {
     font-size: 18px;
     font-weight: 700;
     line-height: 20px;
@@ -35,19 +37,20 @@
     color: #6070ff;
 }
 
-.headline{
+.headline {
 background-image: url(./pics/bg.png);
     height: 604px;
     width: 375px;
     padding:111px 24px;
 }
-.primary-text{
+
+.primary-text {
     width: 327px;
     height: 150px;
     margin-bottom: 10px;
 }
 
-.primary-text p{
+.primary-text p {
     font-family: 'Poppins', sans-serif;
     font-weight: 700;
     font-size: 41px;
@@ -56,13 +59,13 @@ background-image: url(./pics/bg.png);
     margin-bottom: 10px;
 }
 
-.description{
+.description {
     width: 327px;
     height: 146px;
     margin-bottom: 10px;
 }
 
-.description p{
+.description p {
     font-family: 'Poppins', sans-serif;
     font-size: 16px;
     font-weight: 400;
@@ -70,20 +73,20 @@ background-image: url(./pics/bg.png);
     color: #344563;
 }
 
-.social-media{
+.social-media {
     width: 117px;
     height: 24px;
     margin-bottom: 10px;
 }
 
-.social-media p{
+.social-media p {
     font-family: 'Poppins', sans-serif;
     font-weight: 500;
     font-size: 16px;
     color: #7F8CFF;
 }
 
-.social-media-icon{
+.social-media-icon {
 height: 20px;
 width: 170.17px;
 }
