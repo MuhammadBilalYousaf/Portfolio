@@ -34,14 +34,14 @@
     line-height: 20px;
     text-align: center;
     font-family: 'Poppins', sans-serif;
-    color: #6070ff;
+    color: #6070FF;
 }
 
 .headline {
 background-image: url(./pics/bg.png);
     height: 604px;
     width: 375px;
-    padding:111px 24px;
+    padding: 111px 24px;
 }
 
 .primary-text {
