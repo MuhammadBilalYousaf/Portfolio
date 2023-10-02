@@ -157,7 +157,7 @@
   color: #7a869a;
 }
 
-.card-work1 .left-block .description {
+.left-block .description {
   width: 295px;
   height: 76px;
   font-family: 'Poppins', sans-serif;
@@ -168,7 +168,7 @@
   margin-top: 10px;
 }
 
-.card-work1 .left-block .tags {
+.left-block .tags {
   width: 214px;
   height: 24px;
   display: flex;
@@ -176,7 +176,7 @@
   margin-top: 10px;
 }
 
-.card-work1 .left-block .tags .html-tag {
+.left-block .tags .html-tag {
   background-color: #ebebff;
   width: 57px;
   height: 24px;
@@ -184,39 +184,14 @@
   padding: 4px 12px;
 }
 
-.card-work1 .left-block .tags .html-tag p {
+.card-work2 .primary-text p {
   font-family: 'Poppins', sans-serif;
-  font-weight: 500;
-  font-size: 12px;
-  line-height: 16px;
-  color: #6070ff;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 44px;
 }
 
-.card-work1 .left-block .tags .css-tag {
-  background-color: #ebebff;
-  width: 49px;
-  height: 24px;
-  border-radius: 8px;
-  padding: 4px 12px;
-}
-
-.card-work1 .left-block .tags .css-tag p {
-  font-family: 'Poppins', sans-serif;
-  font-weight: 500;
-  font-size: 12px;
-  line-height: 16px;
-  color: #6070ff;
-}
-
-.card-work1 .left-block .tags .js-tag {
-  background-color: #ebebff;
-  width: 92px;
-  height: 24px;
-  border-radius: 8px;
-  padding: 4px 12px;
-}
-
-.card-work1 .left-block .normal-button p {
+.left-block .normal-button p {
   font-family: 'Poppins', sans-serif;
   font-size: 17px;
   font-weight: 500;
@@ -225,7 +200,7 @@
   color: #6070ff;
 }
 
-.card-work1 .left-block .tags .js-tag p {
+.left-block .tags .html-tag p {
   font-family: 'Poppins', sans-serif;
   font-weight: 500;
   font-size: 12px;
@@ -233,13 +208,45 @@
   color: #6070ff;
 }
 
-.card-work1 .left-block .action {
+.left-block .tags .css-tag {
+  background-color: #ebebff;
+  width: 49px;
+  height: 24px;
+  border-radius: 8px;
+  padding: 4px 12px;
+}
+
+.left-block .tags .css-tag p {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 16px;
+  color: #6070ff;
+}
+
+.left-block .tags .js-tag {
+  background-color: #ebebff;
+  width: 92px;
+  height: 24px;
+  border-radius: 8px;
+  padding: 4px 12px;
+}
+
+.left-block .tags .js-tag p {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 16px;
+  color: #6070ff;
+}
+
+.left-block .action {
   width: 295px;
   height: 72px;
   margin-top: 10px;
 }
 
-.card-work1 .left-block .normal-button {
+.left-block .normal-button {
   width: 126px;
   height: 48px;
   border-radius: 8px;
@@ -271,13 +278,6 @@
 .card-work2 .primary-text {
   width: 290px;
   height: 80px;
-}
-
-.card-work2 .primary-text p {
-  font-family: 'Poppins', sans-serif;
-  font-weight: 700;
-  font-size: 32px;
-  line-height: 44px;
 }
 
 .card-work2 .frame2 {
@@ -378,17 +378,17 @@
   width: 295px;
   height: 220px;
 }
-  
+
 .card-work4 .left-block {
   width: 295px;
   height: 288px;
 }
-  
+
 .card-work4 .primary-text {
   width: 290px;
   height: 80px;
 }
-  
+
 .card-work4 .primary-text p {
   font-family: 'Poppins', sans-serif;
   font-weight: 700;
