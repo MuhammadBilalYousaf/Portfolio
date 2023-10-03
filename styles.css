@@ -95,7 +95,7 @@
   display: grid;
   width: 375px;
   height: 2788px;
-  background-color: #def1e6;
+  background-color: #dfe1e6;
   padding: 114px  24px 114px 24px;
 }
 
@@ -145,7 +145,7 @@
 
 .card-work1 .frame2 ul {
   display: flex;
-  padding: 0% 0% 0% 20px;
+  padding: 0 0 0 20px;
 }
 
 .card-work1 .frame2 ul li {
@@ -153,7 +153,7 @@
   font-weight: 600;
   font-size: 13px;
   line-height: 16px;
-  margin: 0% 10px 0% 23px;
+  margin: 0 10px 0 23px;
   color: #7a869a;
 }
 
@@ -182,114 +182,6 @@
   height: 24px;
   border-radius: 8px;
   padding: 4px 12px;
-}
-
-.card-work2 .primary-text p {
-  font-family: 'Poppins', sans-serif;
-  font-weight: 700;
-  font-size: 32px;
-  line-height: 44px;
-}
-
-.left-block .normal-button p {
-  font-family: 'Poppins', sans-serif;
-  font-size: 17px;
-  font-weight: 500;
-  line-height: 24px;
-  text-align: center;
-  color: #6070ff;
-}
-
-.frame3 > .skills > p {
-  font-family: 'Poppins', sans-serif;
-  width: 237px;
-  height: 24px;
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 24px;
-  color: #000;
-  position: relative;
-  top: 24px;
-  left: 12px;
-}
-
-.skill-list > .frame2 > .framework > p {
-  font-family: 'Poppins', sans-serif;
-  width: 237px;
-  height: 24px;
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 24px;
-  color: #000;
-  position: relative;
-  top: 24px;
-  left: 12px;
-}
-
-.skill-list > .frame1 > .language-list > .js >p,
-.html >p,
-.css >p {
-  width: 215px;
-  height: 24px;
-  font-family: 'Poppins', sans-serif;
-  font-weight: 500;
-  font-size: 15px;
-  line-height: 20px;
-  position: relative;
-  top: 6px;
-  left: 30px;
-}
-
-.card-work2 .frame2 p {
-  font-family: 'Poppins', sans-serif;
-  font-weight: 600;
-  font-size: 13px;
-  line-height: 16px;
-}
-
-.card-work3 .primary-text p {
-  font-family: 'Poppins', sans-serif;
-  font-weight: 700;
-  font-size: 32px;
-  line-height: 44px;
-}
-
-.card-work3 .frame2 {
-  display: flex;
-  width: 270px;
-  height: 32px;
-}
-
-.card-work4 .primary-text p {
-  font-family: 'Poppins', sans-serif;
-  font-weight: 700;
-  font-size: 32px;
-  line-height: 44px;
-}
-
-.card-work4 .frame2 {
-  display: flex;
-  width: 270px;
-  height: 32px;
-}
-
-.about .social-media p {
-  width: 125px;  
-  height: 24px;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 24px;
-  font-family: 'Poppins', sans-serif;
-  margin-bottom: 5px;
-}
-
-.about .normal-button p {
-  font-family: 'Poppins', sans-serif;
-  font-size: 17px;
-  font-weight: 500;
-  line-height: 24px;
-  text-align: center;
-  color: #396df2;
 }
 
 .left-block .tags .html-tag p {
@@ -348,6 +240,15 @@
   border: 1px solid #6070ff;
 }
 
+.left-block .normal-button p {
+  font-family: 'Poppins', sans-serif;
+  font-size: 17px;
+  font-weight: 500;
+  line-height: 24px;
+  text-align: center;
+  color: #6070ff;
+}
+
 .card-work2 {
   width: 327px;
   height: 596px;
@@ -372,15 +273,29 @@
   height: 80px;
 }
 
+.card-work2 .primary-text p {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 44px;
+}
+
 .card-work2 .frame2 {
   display: flex;
   width: 270px;
   height: 32px;
 }
 
+.card-work2 .frame2 p {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 13px;
+  line-height: 16px;
+}
+
 .card-work2 .frame2 ul {
   display: flex;
-  padding: 0% 0% 0% 20px;
+  padding: 0 0 0 20px;
 }
 
 .card-work2 .frame2 ul li {
@@ -388,9 +303,10 @@
   font-weight: 600;
   font-size: 13px;
   line-height: 16px;
-  margin: 0% 10px 0% 23px;
+  margin: 0 10px 0 23px;
   color: #7a869a;
 }
+
 
 .card-work3 {
   width: 327px;
@@ -416,6 +332,19 @@
   height: 36px;
 }
 
+.card-work3 .primary-text p {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 44px;
+}
+
+.card-work3 .frame2 {
+  display: flex;
+  width: 270px;
+  height: 32px;
+}
+
 .card-work3 .frame2 p {
   font-family: 'Poppins', sans-serif;
   font-weight: 600;
@@ -425,7 +354,7 @@
 
 .card-work3 .frame2 ul {
   display: flex;
-  padding: 0% 0% 0% 20px;
+  padding: 0 0 0 20px;
 }
 
 .card-work3 .frame2 ul li {
@@ -433,7 +362,7 @@
   font-weight: 600;
   font-size: 13px;
   line-height: 16px;
-  margin: 0% 10px 0% 23px;
+  margin: 0 10px 0 23px;
   color: #7a869a;
 }
 
@@ -461,6 +390,19 @@
   height: 80px;
 }
 
+.card-work4 .primary-text p {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 44px;
+}
+
+.card-work4 .frame2 {
+  display: flex;
+  width: 270px;
+  height: 32px;
+}
+
 .card-work4 .frame2 p {
   font-family: 'Poppins', sans-serif;
   font-weight: 600;
@@ -470,7 +412,7 @@
 
 .card-work4 .frame2 ul {
   display: flex;
-  padding: 0% 0% 0% 20px;
+  padding: 0 0 0 20px;
 }
 
 .card-work4 .frame2 ul li {
@@ -478,29 +420,42 @@
   font-weight: 600;
   font-size: 13px;
   line-height: 16px;
-  margin: 0% 10px 0% 23px;
+  margin: 0 10px 0 23px;
   color: #7a869a;
 }
 
 .about {
+  /* border: 2px solid blue; */
   width: 375px;
   height: 1062.15px;
   padding: 114px 24px;
 }
 
 .about .top {
+  /* border: 2px solid red; */
   width: 327px;
   height: 346px;
 }
 
 .about .top .primary-text p {
-  margin-bottom: 0%;
+  margin-bottom: 0;
 }
 
 .about .social-media {
+  /* border: 2px solid green; */
   width: 200px;
   height: 80px;
   margin-bottom: 10px;
+}
+
+.about .social-media p {
+  width: 125px;
+  height: 24px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: 'Poppins', sans-serif;
+  margin-bottom: 5px;
 }
 
 .about .social-media-icon {
@@ -514,7 +469,19 @@
   height: 48px;
   border-radius: 8px;
   padding: 12px;
+
+  /* position: relative;
+    top: 12px; */
   border: 1px solid #6070ff;
+}
+
+.about .normal-button p {
+  font-family: 'Poppins', sans-serif;
+  font-size: 17px;
+  font-weight: 500;
+  line-height: 24px;
+  text-align: center;
+  color: #396df2;
 }
 
 .skill-list {
@@ -529,19 +496,19 @@
   color: #dfe1e6;
 }
 
-.skill-list > .frame1 {
+.skill-list > .frame-1 {
   width: 327px;
   height: 320.15px;
 }
 
-.skill-list > .frame1 > .language {
+.skill-list > .frame-1 > .language {
   display: flex;
   justify-content: space-between;
   width: 327px;
   height: 72px;
 }
 
-.skill-list > .frame1 > .language > p {
+.skill-list > .frame-1 > .language > p {
   font-family: 'Poppins', sans-serif;
   width: 237px;
   height: 24px;
@@ -554,14 +521,7 @@
   color: #000;
 }
 
-.skill-list > .frame1 > .language-list > .js >img,.html >img,.css >img {
-  width: 48px;
-  height: 48px;
-  position: relative;
-  left: 12px;
-}
-
-.frame2 > .framework > img {
+.skill-list > .frame-1 > .language > img {
   width: 40px;
   height: 40px;
   position: relative;
@@ -569,21 +529,13 @@
   right: 20px;
 }
 
-.skill-list > .frame1 > .language > img {
-  width: 40px;
-  height: 40px;
-  position: relative;
-  top: 16px;
-  right: 20px;
-}
-
-.skill-list > .frame1 > .language-list {
+.skill-list > .frame-1 > .language-list {
   width: 327px;
   height: 248.15px;
   padding: 12px;
 }
 
-.skill-list > .frame1 > .language-list > .js,
+.skill-list > .frame-1 > .language-list > .js,
 .html,
 .css {
   display: flex;
@@ -596,21 +548,78 @@
   background-color: #f7f7f9;
 }
 
-.skill-list > .frame2 > .framework {
+.skill-list > .frame-1 > .language-list > .js > img,
+.html > img,
+.css > img {
+  width: 48px;
+  height: 48px;
+  position: relative;
+  left: 12px;
+}
+
+.skill-list > .frame-1 > .language-list > .js > p,
+.html > p,
+.css > p {
+  width: 215px;
+  height: 24px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 20px;
+  position: relative;
+  top: 6px;
+  left: 30px;
+}
+
+.skill-list > .frame-2 > .framework {
   display: flex;
   justify-content: space-between;
   width: 327px;
   height: 72px;
 }
 
-.skill-list > .frame3 > .skills {
+.skill-list > .frame-2 > .framework > p {
+  font-family: 'Poppins', sans-serif;
+  width: 237px;
+  height: 24px;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  color: #000;
+  position: relative;
+  top: 24px;
+  left: 12px;
+}
+
+.frame-2 > .framework > img {
+  width: 40px;
+  height: 40px;
+  position: relative;
+  top: 16px;
+  right: 20px;
+}
+
+.skill-list > .frame-3 > .skills {
   display: flex;
   justify-content: space-between;
   width: 327px;
   height: 72px;
 }
 
-.frame3 > .skills > img {
+.frame-3 > .skills > p {
+  font-family: 'Poppins', sans-serif;
+  width: 237px;
+  height: 24px;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  color: #000;
+  position: relative;
+  top: 24px;
+  left: 12px;
+}
+
+.frame-3 > .skills > img {
   width: 40px;
   height: 40px;
   position: relative;
