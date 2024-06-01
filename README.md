@@ -10,4 +10,4 @@ After that there is Contact form. Through which you can contact with us by filli
 There is one addition which is making the website responsive. It will adjust atomaically on every type of screen:
 like (Desktop, laptop, Ipad and every kind of mobile).
 
-Deploy Link: [ https://muhammadbilalyousaf.github.io/Portfolio/]([url](https://muhammadbilalyousaf.github.io/Portfolio/))
+Deploy Link: https://muhammadbilalyousaf.github.io/Portfolio/
